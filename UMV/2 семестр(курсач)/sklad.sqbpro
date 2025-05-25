@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="sklad.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3387"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Заказчик" custom_title="0" dock_id="1" table="4,16:mainЗаказчик"/><dock_state state="000000ff00000000fd00000001000000020000053500000390fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000005350000012e00ffffff000002790000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="135"/><column index="2" value="35"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Детали_Заказа" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="72"/><column index="2" value="70"/><column index="3" value="71"/><column index="4" value="76"/><column index="5" value="115"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Детали_Накладной" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="72"/><column index="2" value="95"/><column index="3" value="71"/><column index="4" value="76"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Заказ" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="69"/><column index="2" value="103"/><column index="3" value="119"/><column index="4" value="90"/><column index="5" value="113"/><column index="6" value="97"/><column index="7" value="103"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Заказчик" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="89"/><column index="2" value="96"/><column index="3" value="263"/><column index="4" value="175"/><column index="5" value="110"/><column index="6" value="263"/><column index="7" value="149"/><column index="8" value="103"/><column index="9" value="87"/><column index="10" value="79"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Место_Хранения" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="65"/><column index="2" value="36"/><column index="3" value="61"/><column index="4" value="50"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Накладная" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="93"/><column index="2" value="119"/><column index="3" value="121"/><column index="4" value="70"/><column index="5" value="113"/><column index="6" value="121"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Пользователь" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="112"/><column index="2" value="231"/><column index="3" value="111"/><column index="4" value="71"/><column index="5" value="55"/><column index="6" value="167"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Поставщик" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="2" value="103"/><column index="3" value="103"/><column index="4" value="255"/><column index="5" value="119"/><column index="6" value="199"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Товар" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="70"/><column index="2" value="63"/><column index="3" value="127"/><column index="4" value="101"/><column index="5" value="66"/><column index="6" value="115"/><column index="7" value="122"/><column index="8" value="149"/><column index="9" value="103"/><column index="10" value="127"/><column index="11" value="118"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">-- Поставщик (10 записей)
+INSERT INTO Поставщик (ИНН, Название, Адрес, Контактное_Лицо, Банковские_Реквизиты) VALUES
+('123456789012', 'ООО Техно', 'Москва, ул. Ленина, 1', 'Иванов А.А.', 'Р/с 40702810000000000001'),
+('234567890123', 'ЗАО Электро', 'Санкт-Петербург, ул. Мира, 2', 'Петров Б.Б.', 'Р/с 40702810000000000002'),
+('345678901234', 'ИП Сидоров', 'Екатеринбург, ул. Победы, 3', 'Сидоров В.В.', NULL),
+('456789012345', 'ООО Гаджет', 'Новосибирск, ул. Центральная, 4', 'Козлов Г.Г.', 'Р/с 40702810000000000003'),
+('567890123456', 'ЗАО Импорт', 'Казань, ул. Южная, 5', 'Михайлов Д.Д.', 'Р/с 40702810000000000004'),
+('678901234567', 'ООО Склад', 'Ростов-на-Дону, ул. Северная, 6', 'Николаев Е.Е.', NULL),
+('789012345678', 'ИП Ковалев', 'Челябинск, ул. Западная, 7', 'Ковалев Ж.Ж.', NULL),
+('890123456789', 'ООО Торг', 'Самара, ул. Восточная, 8', 'Федоров З.З.', 'Р/с 40702810000000000005'),
+('901234567890', 'ЗАО Прогресс', 'Омск, ул. Солнечная, 9', 'Лебедев И.И.', 'Р/с 40702810000000000006'),
+('012345678901', 'ООО Альфа', 'Уфа, ул. Звездная, 10', 'Григорьев К.К.', 'Р/с 40702810000000000007');
+
+-- Место_Хранения (10 записей)
+INSERT INTO Место_Хранения (Зона, Стеллаж, Ячейка) VALUES
+('A', '1', '01'),
+('A', '1', '02'),
+('B', '2', '01'),
+('B', '2', '02'),
+('C', '3', '01'),
+('C', '3', '02'),
+('D', '4', '01'),
+('D', '4', '02'),
+('E', '5', '01'),
+('E', '5', '02');
+
+-- Заказчик (10 записей)
+INSERT INTO Заказчик (Тип_Заказчика, ФИО, Email, Номер_Телефона, Адрес_Доставки, Серия_Номер_Паспорта, ИНН, Название, КПП) VALUES
+('Физическое', 'Иванов Иван Иванович', 'ivanov@example.com', '+79991234567', 'Москва, ул. Ленина, 10', '1234 567890', NULL, NULL, NULL),
+('Физическое', 'Петров Петр Петрович', 'petrov@example.com', '+79992345678', 'Санкт-Петербург, ул. Мира, 20', '2345 678901', NULL, NULL, NULL),
+('Юридическое', 'Сидоров Сергей Сергеевич', 'sidorov@example.com', '+79993456789', 'Екатеринбург, ул. Победы, 30', NULL, '123456789012', 'ООО Рога', '123456789'),
+('Физическое', 'Козлов Константин Константинович', 'kozlov@example.com', '+79994567890', 'Новосибирск, ул. Центральная, 40', '3456 789012', NULL, NULL, NULL),
+('Юридическое', 'Михайлов Михаил Михайлович', 'mikhailov@example.com', '+79995678901', 'Казань, ул. Южная, 50', NULL, '234567890123', 'ООО Копыта', '234567890'),
+('Физическое', 'Николаев Николай Николаевич', 'nikolaev@example.com', '+79996789012', 'Ростов-на-Дону, ул. Северная, 60', '4567 890123', NULL, NULL, NULL),
+('Физическое', 'Ковалев Кирилл Кириллович', 'kovalev@example.com', '+79997890123', 'Челябинск, ул. Западная, 70', '5678 901234', NULL, NULL, NULL),
+('Юридическое', 'Федоров Федор Федорович', 'fedorov@example.com', '+79998901234', 'Самара, ул. Восточная, 80', NULL, '345678901234', 'ООО Торг', '345678901'),
+('Физическое', 'Лебедев Леонид Леонидович', 'lebedev@example.com', '+79999012345', 'Омск, ул. Солнечная, 90', '6789 012345', NULL, NULL, NULL),
+('Физическое', 'Григорьев Григорий Григорьевич', 'grigoryev@example.com', '+79990123456', 'Уфа, ул. Звездная, 100', '7890 123456', NULL, NULL, NULL);
+
+-- Пользователь (10 записей: 2 администратора, 4 менеджера, 4 кладовщика)
+INSERT INTO Пользователь (ФИО, Роль, Логин, Пароль, Email) VALUES
+('Админов Админ Админович', 'Администратор', 'admin1', 'hash1', 'admin1@example.com'),
+('Системов Систем Системович', 'Администратор', 'admin2', 'hash2', 'admin2@example.com'),
+('Менеджеров Максим Максимович', 'Менеджер', 'manager1', 'hash3', 'manager1@example.com'),
+('Продажников Павел Павлович', 'Менеджер', 'manager2', 'hash4', 'manager2@example.com'),
+('Закупщиков Олег Олегович', 'Менеджер', 'manager3', 'hash5', 'manager3@example.com'),
+('Клиентщиков Анна Андреевна', 'Менеджер', 'manager4', 'hash6', 'manager4@example.com'),
+('Складов Сергей Сергеевич', 'Кладовщик', 'worker1', 'hash7', 'worker1@example.com'),
+('Товаров Виктор Викторович', 'Кладовщик', 'worker2', 'hash8', 'worker2@example.com'),
+('Отгрузков Дмитрий Дмитриевич', 'Кладовщик', 'worker3', 'hash9', 'worker3@example.com'),
+('Хранилищев Иван Иванович', 'Кладовщик', 'worker4', 'hash10', 'worker4@example.com');
+
+-- Товар (10 записей)
+INSERT INTO Товар (Артикул, Наименование, ID_Поставщика, ID_Места, Цена_За_Единицу, Дата_Поступления, Количество_На_Складе, Масса_Единицы, Единица_Измерения, Категория_Товара) VALUES
+('NB-001', 'Ноутбук Lenovo', 1, 1, 50000.00, '2025-01-01', 100, 2.00, 'шт', 'Электроника'),
+('NB-002', 'Ноутбук HP', 2, 2, 45000.00, '2025-01-02', 80, 1.80, 'шт', 'Электроника'),
+('MS-001', 'Мышь Logitech', 3, 3, 1000.00, '2025-01-03', 200, 0.10, 'шт', 'Аксессуары'),
+('MS-002', 'Мышь Microsoft', 4, 4, 1200.00, '2025-01-04', 150, 0.12, 'шт', 'Аксессуары'),
+('KB-001', 'Клавиатура Dell', 5, 5, 2000.00, '2025-01-05', 120, 0.50, 'шт', 'Аксессуары'),
+('KB-002', 'Клавиатура ASUS', 6, 6, 2500.00, '2025-01-06', 100, 0.55, 'шт', 'Аксессуары'),
+('MON-001', 'Монитор Samsung', 7, 7, 15000.00, '2025-01-07', 50, 4.00, 'шт', 'Электроника'),
+('MON-002', 'Монитор LG', 8, 8, 14000.00, '2025-01-08', 60, 3.80, 'шт', 'Электроника'),
+('PR-001', 'Принтер Canon', 9, 9, 8000.00, '2025-01-09', 30, 5.00, 'шт', 'Оргтехника'),
+('PR-002', 'Принтер HP', 10, 10, 8500.00, '2025-01-10', 25, 5.20, 'шт', 'Оргтехника');
+
+-- Заказ (10 записей, все созданы менеджерами)
+INSERT INTO Заказ (Номер_Заказа, Дата_Оформления, ID_Заказчика, ID_Пользователя, Статус_Заказа, Дата_Доставки) VALUES
+('ORD-2025-001', '2025-02-01', 1, 3, 'Оформлен', '2025-02-10'),
+('ORD-2025-002', '2025-02-02', 2, 4, 'Оформлен', '2025-02-11'),
+('ORD-2025-003', '2025-02-03', 3, 5, 'В обработке', '2025-02-12'),
+('ORD-2025-004', '2025-02-04', 4, 6, 'Оформлен', '2025-02-13'),
+('ORD-2025-005', '2025-02-05', 5, 3, 'В обработке', '2025-02-14'),
+('ORD-2025-006', '2025-02-06', 6, 4, 'Оформлен', '2025-02-15'),
+('ORD-2025-007', '2025-02-07', 7, 5, 'Оформлен', '2025-02-16'),
+('ORD-2025-008', '2025-02-08', 8, 6, 'В обработке', '2025-02-17'),
+('ORD-2025-009', '2025-02-09', 9, 3, 'Оформлен', '2025-02-18'),
+('ORD-2025-010', '2025-02-10', 10, 4, 'Оформлен', '2025-02-19');
+
+-- Детали_Заказа (12 записей, по 1-2 на заказ)
+INSERT INTO Детали_Заказа (ID_Заказа, ID_Товара, Количество, Цена_За_Единицу) VALUES
+(1, 1, 10, 50000.00),
+(1, 3, 5, 1000.00),
+(2, 2, 8, 45000.00),
+(3, 4, 15, 1200.00),
+(4, 5, 12, 2000.00),
+(5, 6, 10, 2500.00),
+(6, 7, 5, 15000.00),
+(7, 8, 6, 14000.00),
+(8, 9, 3, 8000.00),
+(9, 10, 4, 8500.00),
+(10, 1, 7, 50000.00),
+(10, 2, 5, 45000.00);
+
+-- Накладная (10 записей, все созданы кладовщиками)
+INSERT INTO Накладная (Номер_Документа, Дата_Составления, ID_Заказа, ID_Пользователя, Статус_Накладной) VALUES
+('INV-2025-001', '2025-02-05', 1, 7, 'Создана'),
+('INV-2025-002', '2025-02-06', 2, 8, 'Создана'),
+('INV-2025-003', '2025-02-07', 3, 9, 'Отгружена'),
+('INV-2025-004', '2025-02-08', 4, 10, 'Создана'),
+('INV-2025-005', '2025-02-09', 5, 7, 'Отгружена'),
+('INV-2025-006', '2025-02-10', 6, 8, 'Создана'),
+('INV-2025-007', '2025-02-11', 7, 9, 'Создана'),
+('INV-2025-008', '2025-02-12', 8, 10, 'Отгружена'),
+('INV-2025-009', '2025-02-13', 9, 7, 'Создана'),
+('INV-2025-010', '2025-02-14', 10, 8, 'Создана');
+
+-- Детали_Накладной (12 записей, по 1-2 на накладную)
+INSERT INTO Детали_Накладной (ID_Накладной, ID_Товара, Количество) VALUES
+(1, 1, 5),
+(1, 3, 3),
+(2, 2, 4),
+(3, 4, 10),
+(4, 5, 8),
+(5, 6, 7),
+(6, 7, 3),
+(7, 8, 4),
+(8, 9, 2),
+(9, 10, 3),
+(10, 1, 4),
+(10, 2, 3);</sql><current_tab id="0"/></tab_sql></sqlb_project>

@@ -2,17 +2,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def step_signal(x, a, b):
-    return np.where((x >= a) & (x < b), 1, 0)
+    return np.where((a <= x) & (x < b), 1, 0)
 
-# Создаем ступенчатые сигналы
-x = np.linspace(-2, 5, 500)
+x = np.arange(-1, 3, 0.01)
 f_signal = step_signal(x, 0, 1)
-g_signal = step_signal(x, 1, 2)
-
-# Свертка с использованием NumPy
+g_signal = step_signal(x, 0, 1)
 conv_result = np.convolve(f_signal, g_signal, mode='full')[:len(x)]
 
-# Построение графиков
 plt.figure(figsize=(10, 6))
 
 plt.subplot(3, 1, 1)

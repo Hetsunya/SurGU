@@ -1,0 +1,214 @@
+! Name of the expert system: INVESTMENT SELECTION ADVISOR
+
+! Description: This system assists a user in selecting appropriate investment instruments based on their goals, risk tolerance, and preferences.
+
+! Microcomputer used: IBM PC compatible
+
+! Saved file name: INVEST.KBS
+
+ENDOFF;
+
+RUNTIME;
+
+! ACTIONS BLOCK
+
+ACTIONS
+
+WOPEN 1,0,0,23,79,2
+
+ACTIVE 1
+
+DISPLAY "
+
+
+
+
+
+
+                     INVESTMENT SELECTION ADVISOR
+
+
+
+                    Developed by Vitaliy Demyantsev
+
+
+
+
+                      Press any key to continue~"
+
+WCLOSE 1
+
+   DISPLAY " Welcome to the Investment Selection Advisor"
+
+   FIND RECO
+
+   DISPLAY " Based on the answers you have given,
+
+   I recommend that you: {RECO}";
+
+! RULES BLOCK
+
+RULE 1-1
+IF       GOAL = YES
+THEN     RISK-CHECK = NEEDED
+BECAUSE  "Preserving capital requires assessing risk tolerance.";
+
+RULE 1-2
+IF       GOAL = NO
+THEN     INCOME-CHECK = NEEDED
+BECAUSE  "Non-preservation goals focus on income or growth.";
+
+RULE 2-1
+IF       RISK-CHECK = NEEDED
+         AND RISK-TOL = NO
+THEN     RECO = Invest_in_bonds_or_deposits
+BECAUSE  "No risk tolerance suits bonds or deposits.";
+
+RULE 2-2
+IF       RISK-CHECK = NEEDED
+         AND RISK-TOL = YES
+THEN     VOLATILITY-CHECK = NEEDED
+BECAUSE  "Some risk tolerance allows exposure to stable assets.";
+
+RULE 3-1
+IF       INCOME-CHECK = NEEDED
+         AND INCOME = YES
+THEN     SAVINGS-CHECK = NEEDED
+BECAUSE  "Income priority requires checking available savings.";
+
+RULE 3-2
+IF       INCOME-CHECK = NEEDED
+         AND INCOME = NO
+THEN     GROWTH-CHECK = NEEDED
+BECAUSE  "Non-income goals focus on capital growth.";
+
+RULE 4-1
+IF       VOLATILITY-CHECK = NEEDED
+         AND VOLATILITY = YES
+THEN     RECO = Invest_in_stable_funds
+BECAUSE  "Comfort with volatility suits stable funds.";
+
+RULE 4-2
+IF       VOLATILITY-CHECK = NEEDED
+         AND VOLATILITY = NO
+THEN     ESG-CHECK = NEEDED
+BECAUSE  "Avoiding volatility may align with ESG preferences.";
+
+RULE 5-1
+IF       SAVINGS-CHECK = NEEDED
+         AND SAVINGS = YES
+THEN     TAX-CHECK = NEEDED
+BECAUSE  "Significant savings allow complex strategies.";
+
+RULE 5-2
+IF       SAVINGS-CHECK = NEEDED
+         AND SAVINGS = NO
+THEN     RECO = Invest_in_income_funds
+BECAUSE  "Limited savings suit income-focused funds.";
+
+RULE 6-1
+IF       GROWTH-CHECK = NEEDED
+         AND LONG-TERM = YES
+THEN     RISK-ACCEPT = NEEDED
+BECAUSE  "Long-term growth supports riskier strategies.";
+
+RULE 6-2
+IF       GROWTH-CHECK = NEEDED
+         AND LONG-TERM = NO
+THEN     RECO = Invest_in_short_term_funds
+BECAUSE  "Short-term goals suit liquid, low-risk funds.";
+
+RULE 7-1
+IF       ESG-CHECK = NEEDED
+         AND ESG = YES
+THEN     RECO = Invest_in_ESG_stocks
+BECAUSE  "ESG preference aligns with sustainable stocks.";
+
+RULE 7-2
+IF       ESG-CHECK = NEEDED
+         AND ESG = NO
+THEN     LIQUIDITY-CHECK = NEEDED
+BECAUSE  "Non-ESG investors may prioritize liquidity.";
+
+RULE 8-1
+IF       TAX-CHECK = NEEDED
+         AND TAX-KNOWLEDGE = YES
+THEN     RECO = Invest_with_expert_management
+BECAUSE  "Tax knowledge supports expert-managed strategies.";
+
+RULE 8-2
+IF       TAX-CHECK = NEEDED
+         AND TAX-KNOWLEDGE = NO
+THEN     RECO = Invest_in_simple_funds
+BECAUSE  "No tax knowledge suits simple funds.";
+
+RULE 9-1
+IF       RISK-ACCEPT = NEEDED
+         AND HIGH-RISK = YES
+THEN     ADVICE-CHECK = NEEDED
+BECAUSE  "High risk tolerance requires professional advice.";
+
+RULE 9-2
+IF       RISK-ACCEPT = NEEDED
+         AND HIGH-RISK = NO
+THEN     RECO = Balanced_stocks_and_bonds
+BECAUSE  "Moderate risk suits balanced portfolios.";
+
+RULE 11-1
+IF       LIQUIDITY-CHECK = NEEDED
+         AND LIQUIDITY = YES
+THEN     RECO = Invest_in_liquid_funds
+BECAUSE  "High liquidity needs suit liquid funds.";
+
+RULE 11-2
+IF       LIQUIDITY-CHECK = NEEDED
+         AND LIQUIDITY = NO
+THEN     RECO = Invest_in_market_funds
+BECAUSE  "Low liquidity suits diversified market funds.";
+
+RULE 12-1
+IF       ADVICE-CHECK = NEEDED
+         AND ADVICE = YES
+THEN     RECO = Invest_in_high_risk_stocks
+BECAUSE  "Expert advice supports high-risk stocks.";
+
+RULE 12-2
+IF       ADVICE-CHECK = NEEDED
+         AND ADVICE = NO
+THEN     RECO = Invest_in_high_risk_stocks_carefully
+BECAUSE  "No expert advice requires cautious high-risk investing.";
+
+! STATEMENTS BLOCK
+
+ASK GOAL: "Do you want to keep your money safe above all?";
+CHOICES GOAL: YES, NO;
+
+ASK RISK-TOL: "Are you okay with a small chance of losing money?";
+CHOICES RISK-TOL: YES, NO;
+
+ASK INCOME: "Do you want regular payments from your investments?";
+CHOICES INCOME: YES, NO;
+
+ASK VOLATILITY: "Do you want to avoid big price changes?";
+CHOICES VOLATILITY: YES, NO;
+
+ASK SAVINGS: "Do you have a lot of extra money to invest?";
+CHOICES SAVINGS: YES, NO;
+
+ASK LONG-TERM: "Do you plan to grow your money over many years (10+)?";
+CHOICES LONG-TERM: YES, NO;
+
+ASK ESG: "Do you care about companies helping the environment?";
+CHOICES ESG: YES, NO;
+
+ASK TAX-KNOWLEDGE: "Do you know how taxes work with investments?";
+CHOICES TAX-KNOWLEDGE: YES, NO;
+
+ASK HIGH-RISK: "Are you ready to take bigger risks for more growth?";
+CHOICES HIGH-RISK: YES, NO;
+
+ASK LIQUIDITY: "Do you need to sell your investments quickly if needed?";
+CHOICES LIQUIDITY: YES, NO;
+
+ASK ADVICE: "Do you have an expert to guide your investments?";
+CHOICES ADVICE: YES, NO;

@@ -28,11 +28,16 @@ namespace HammingCodeWPF
             for (int i = 0; i < inMessage.Length; i++)
                 messageArray[i] = inMessage[i] == '1';
 
+            int m = messageArray.Length;
+            int p = 0;
+            while (Math.Pow(2, p) < m + p + 1)
+                p++;
+
+            var retArray = new BitArray(m + p);
+
             int messageInd = 0;
             int retInd = 0;
             int controlIndex = 1;
-            var retArray = new BitArray(messageArray.Length + (int)Math.Ceiling(Math.Log(messageArray.Length + 1, 2)));
-
             while (messageInd < messageArray.Length)
             {
                 if (retInd + 1 == controlIndex)
@@ -77,7 +82,8 @@ namespace HammingCodeWPF
             for (int i = 0; i < inMessage.Length; i++)
                 codedArray[i] = inMessage[i] == '1';
 
-            var decodedArray = new BitArray((int)(codedArray.Count - Math.Ceiling(Math.Log(codedArray.Count, 2))));
+            int p = (int)Math.Ceiling(Math.Log(codedArray.Length + 1, 2));
+            var decodedArray = new BitArray(codedArray.Count - p);
             int count = 0;
 
             for (int i = 0; i < codedArray.Length; i++)
@@ -90,7 +96,7 @@ namespace HammingCodeWPF
 
             string strDecodedArray = BitArrayToString(decodedArray);
             var checkArray = Code(strDecodedArray);
-            byte[] failBits = new byte[(int)Math.Ceiling(Math.Log(codedArray.Count, 2))];
+            byte[] failBits = new byte[p];
             count = 0;
             bool isMistake = false;
 
@@ -123,7 +129,7 @@ namespace HammingCodeWPF
                 }
 
                 count = 0;
-                decodedArray = new BitArray((int)(codedArray.Count - Math.Ceiling(Math.Log(codedArray.Count, 2))));
+                decodedArray = new BitArray(codedArray.Count - p);
                 for (int i = 0; i < codedArray.Length; i++)
                 {
                     if (IsPowerOfTwo(i + 1))

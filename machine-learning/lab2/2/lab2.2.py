@@ -2,17 +2,19 @@ import pandas as pd
 import numpy as np
 import timeit
 
-df = pd.read_csv('city_temperature.csv')
+# Чтение данных
+df = pd.read_csv('city_temperature.csv', low_memory=False)
 
+# Преобразование типов
 int16_temperature = df['AvgTemperature'].astype(np.int16)
 float64_temperature = df['AvgTemperature'].astype(np.float64)
 
-start_time = timeit.default_timer()
-result_int16 = np.sum(int16_temperature)
-end_time = timeit.default_timer()
-print(f"Время выполнения операции на массиве int16: {end_time - start_time} секунд")
+# Тестирование int16
+int16_time = timeit.timeit(lambda: np.sum(int16_temperature), number=100)
+int16_result = np.sum(int16_temperature)
+print(f"int16: время = {int16_time/100:.6f} сек, сумма = {int16_result}")
 
-start_time = timeit.default_timer()
-result_float64 = np.sum(float64_temperature)
-end_time = timeit.default_timer()
-print(f"Время выполнения операции на массиве float64: {end_time - start_time} секунд")
+# Тестирование float64
+float64_time = timeit.timeit(lambda: np.sum(float64_temperature), number=100)
+float64_result = np.sum(float64_temperature)
+print(f"float64: время = {float64_time/100:.6f} сек, сумма = {float64_result}")

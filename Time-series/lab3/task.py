@@ -1,18 +1,32 @@
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Чтение данных из файла
-file_path = 'lab3_data6.txt'
-data = pd.read_csv(file_path, sep='\t', header=None)
+data = pd.read_csv('lab3_data6.txt', sep='\t', header=None, names=['Nothing', 'Aggressive', 'White Noise', 'Classical', 'Rhythmic'])
 
-# Визуализация временных рядов
-plt.figure(figsize=(10, 6))
+time_series = []
 
-for i in range(data.shape[1]):
-    plt.plot(data[i], label=f'Тип музыки {i + 1}')
+# Для каждой колонки (типа музыки):
+for col in data.columns:
+    # Преобразуем интервалы между ударами в частоту сердечных сокращений (ударов в минуту)
+    heart_rate = 60000 / data[col]
+    # Создаем временной ряд с равномерным шагом времени
+    time = pd.Series(np.arange(len(heart_rate)), index=pd.date_range(start='2023-11-01', periods=len(heart_rate), freq='ms'))
+    time_series.append(pd.Series(heart_rate, index=time))
 
-plt.title('Сердечный ритм во время прослушивания разных типов музыки')
-plt.xlabel('Время')
-plt.ylabel('Интервалы между ударами сердца (мс)')
-plt.legend()
+# Построение графиков для каждого типа музыки
+plt.figure(figsize=(12, 8))
+for i, ts in enumerate(time_series):
+    plt.subplot(len(time_series), 1, i+1)
+    plt.plot(ts, label=data.columns[i])
+    plt.xlabel('Время')
+    plt.ylabel('ЧСС')
+    plt.title(f'Сердечный ритм при прослушивании {data.columns[i]}')
+    plt.legend()
+
+    # Calculate and print statistics for each time series
+    print(f'Statistics for {data.columns[i]}:')
+    print(ts.describe())
+
+plt.tight_layout()
 plt.show()

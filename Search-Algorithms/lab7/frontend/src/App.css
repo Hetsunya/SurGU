@@ -1,83 +1,237 @@
-/* Стили для основного контейнера */
-div {
-  font-family: Arial, sans-serif;
-  max-width: 800px;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+.search-container {
+  max-width: 900px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 2rem 1rem;
 }
 
-/* Заголовок */
-h1 {
+.search-container h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
   text-align: center;
-  color: #4CAF50;
-  font-size: 36px;
-  margin-bottom: 20px;
 }
 
-/* Поле ввода */
-input[type="text"] {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
+.search-input {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  position: relative;
 }
 
-/* Кнопка */
-button {
-  width: 100%;
-  padding: 10px;
-  background-color: #4CAF50;
-  color: white;
-  font-size: 16px;
+.search-input input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  background-color: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  color: #e0e0e0;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.search-input input:focus {
+  outline: none;
+  border-color: #6200ea;
+  box-shadow: 0 0 0 3px rgba(98, 0, 234, 0.2);
+}
+
+.search-input button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: #6200ea;
   border: none;
-  border-radius: 4px;
+  border-radius: 8px;
+  color: #ffffff;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.2s, transform 0.1s;
 }
 
-button:hover {
-  background-color: #45a049;
+.search-input button:hover {
+  background-color: #7f39fb;
 }
 
-button:disabled {
-  background-color: #ccc;
+.search-input button:active {
+  transform: scale(0.98);
+}
+
+.search-input button:disabled {
+  background-color: #4a4a4a;
   cursor: not-allowed;
 }
 
-/* Сообщение об ошибке */
-p {
-  color: red;
-  font-size: 14px;
+.suggestions {
+  list-style: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 10;
+  margin-top: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.suggestions li {
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  color: #e0e0e0;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.suggestions li:hover {
+  background-color: #3a3a3a;
+}
+
+.error {
+  color: #ff5252;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
   text-align: center;
 }
 
-/* Результаты поиска */
-ul {
-  list-style-type: none;
-  padding: 0;
+.no-results {
+  font-size: 0.95rem;
+  color: #a0a0a0;
+  text-align: center;
+  margin-top: 1rem;
 }
 
-li {
-  padding: 10px;
-  border-bottom: 1px solid #ddd;
+.results-list {
+  list-style: none;
 }
 
-li a {
+.result-item {
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.result-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.result-item a {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #bb86fc;
   text-decoration: none;
-  color: #333;
-  font-size: 18px;
-  display: block;
 }
 
-li a:hover {
-  color: #4CAF50;
+.result-item a:hover {
   text-decoration: underline;
 }
 
-/* Стили для Loading */
-button:disabled {
-  background-color: #ccc;
+.snippet {
+  color: #b0b0b0;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+  line-height: 1.4;
+}
+
+.snippet b {
+  color: #e0e0e0;
+  font-weight: 600;
+}
+
+.scores {
+  font-size: 0.85rem;
+  color: #a0a0a0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.scores p {
+  margin: 0;
+}
+
+.pagination {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.pagination button {
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  background-color: #6200ea;
+  border: none;
+  border-radius: 6px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.pagination button:hover {
+  background-color: #7f39fb;
+}
+
+.pagination button:disabled {
+  background-color: #4a4a4a;
   cursor: not-allowed;
+}
+
+.pagination span {
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  color: #e0e0e0;
+}
+
+/* Адаптивность */
+@media (max-width: 600px) {
+  .search-container {
+    padding: 1rem;
+  }
+
+  .search-container h1 {
+    font-size: 1.5rem;
+  }
+
+  .search-input {
+    flex-direction: column;
+  }
+
+  .search-input input,
+  .search-input button {
+    width: 100%;
+  }
+
+  .result-item a {
+    font-size: 1.1rem;
+  }
+
+  .snippet {
+    font-size: 0.85rem;
+  }
+
+  .scores {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
 }

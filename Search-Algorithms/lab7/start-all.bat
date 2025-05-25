@@ -14,4 +14,3 @@ start npm start
 cd ..
 
 echo All services started.
-pause

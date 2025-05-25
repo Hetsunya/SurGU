@@ -1,114 +1,69 @@
 import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 
-
-def plot_3d_graph(x1, x2, y, title, color='b'):
-    fig = plt.figure()
-    ax = fig.add_subplot(111, projection='3d')
-    ax.scatter(x1, x2, y, c=color, marker='o')
-    ax.set_xlabel('X1')
-    ax.set_ylabel('X2')
-    ax.set_zlabel('Y')
-    plt.title(title)
-    plt.show()
-
+def sigmoid(x):
+    """Сигмоидная функция с ограничением для избежания переполнения."""
+    return 1 / (1 + np.exp(-np.clip(x, -500, 500)))
 
 class Neuron:
     def __init__(self, num_inputs):
-        self.weights = np.random.uniform(876, 876, num_inputs)
-        self.bias = np.random.uniform(0.000001, 0.000002)
-        self.accuracy = 0.00001
+        self.weights = np.random.uniform(-1, 1, num_inputs)
+        self.bias = np.random.uniform(-0.1, 0.1)
+        self.accuracy = 1e-5
 
     def predict(self, x):
         summator = np.dot(x, self.weights) + self.bias
-        return summator
+        return sigmoid(summator)
 
-    def update_weights(self, x, y, learning_rate):
+    def update_weights_backprop(self, x, target, learning_rate):
         x = np.array(x)
         prediction = self.predict(x)
-        error = y - prediction
-
-        # Проверяем, не равны ли prediction и target
-        if prediction != y:
-            self.weights += learning_rate * error * x
-            self.bias += learning_rate * error
-
-    def update_weights_backprop(self, x, y, learning_rate):
-        x = np.array(x)
-        prediction = self.predict(x)
-        error = y - prediction
-
-        # Обновление весов с использованием метода обратного распространения ошибки
-        self.weights += learning_rate * error * x
-        self.bias += learning_rate * error
+        error = target - prediction
+        gradient = error * prediction * (1 - prediction)
+        self.weights += learning_rate * gradient * x
+        self.bias += learning_rate * gradient
 
     def train(self, inputs, target, learning_rate):
-        # Обучение нейрона
         self.update_weights_backprop(inputs, target, learning_rate)
-
-    @staticmethod
-    def calculate_mse_for_network(neural_net, test_data):
-        total_error = 0
-        num_neurons = len(neural_net.neurons)
-
-        for inputs, target in test_data:
-            predictions = [neuron.predict(inputs) for neuron in neural_net.neurons]
-
-            errors = [(target - prediction) ** 2 for prediction in predictions]
-            total_error += sum(errors)
-
-        # Усредняем ошибку по всем нейронам и элементам тестовой выборки
-        mse = total_error / (num_neurons * len(test_data))
-        return mse
 
     def get_weights(self):
         return self.weights, self.bias
-
 
 class NeuralNetwork:
     def __init__(self, num_neurons, num_inputs_per_neuron):
         self.neurons = [Neuron(num_inputs_per_neuron) for _ in range(num_neurons)]
 
-
 def create_neural_network(num_neurons, num_inputs_per_neuron):
+    """Создаёт нейронную сеть."""
     return NeuralNetwork(num_neurons, num_inputs_per_neuron)
 
-
 def train_neural_network(neural_net, training_set, learning_rate, epochs):
+    """Обучает нейронную сеть."""
     for epoch in range(epochs):
         total_loss = 0.0
         for inputs, target in training_set:
             predictions = [neuron.predict(inputs) for neuron in neural_net.neurons]
-
-            errors = np.array([target - prediction for target, prediction in zip([target], predictions)])
-            total_loss += 1/2 * np.sum(errors ** 2)
-
-            for neuron, error, input_value in zip(neural_net.neurons, errors, inputs):
-                neuron.train(input_value, error, learning_rate)
-
-    # Выводим среднеквадратичную ошибку после обучения
-    mse = total_loss / len(training_set)
-    print(f"Mean Squared Error: {mse}")
-
+            errors = [target - prediction for prediction in predictions]
+            total_loss += 0.5 * sum(error ** 2 for error in errors)
+            for neuron, error in zip(neural_net.neurons, errors):
+                neuron.train(inputs, target, learning_rate)
+        mse = total_loss / len(training_set)
+        print(f"Epoch {epoch + 1}, Mean Squared Error: {mse}")
 
 def evaluate_neural_network(neural_net, test_data):
+    """Оценивает точность нейронной сети."""
     correct_predictions = 0
     total_samples = len(test_data)
-
     for inputs, target in test_data:
         predictions = [neuron.predict(inputs) for neuron in neural_net.neurons]
-        predicted_class = 1 if np.mean(predictions) > 0.5 else 0  # Пороговое значение для бинарной классификации
-
+        predicted_class = 1 if np.mean(predictions) > 0.5 else 0
         if predicted_class == target:
             correct_predictions += 1
-        # else:
-        #     print(f"pred = ({predictions}) = target = ({target})")
-
     accuracy = correct_predictions / total_samples
     print(f"Accuracy: {accuracy * 100:.2f}%")
+    return accuracy
 
 def split_data(data, train_fraction):
+    """Разделяет данные на тренировочные и тестовые."""
     num_samples = len(data)
     train_size = int(train_fraction * num_samples)
     train_data = data[:train_size]

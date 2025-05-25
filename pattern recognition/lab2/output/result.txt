@@ -1,0 +1,105 @@
+Изображение: recog_2/0.jpg
+Количество гипотез (Positive): 2471
+Количество отсеянных гипотез (Negative): 2096
+Сохранено изображение с рамками: output/result_0.jpg
+Таблица ошибок:
+True Positives (TP): 0
+False Positives (FP): 0
+False Negatives (FN): 2471
+True Negatives (TN): 0
+Accuracy: 0.0000
+
+Изображение: recog_2/10.jpg
+Количество гипотез (Positive): 939
+Количество отсеянных гипотез (Negative): 682
+Сохранено изображение с рамками: output/result_10.jpg
+Таблица ошибок:
+True Positives (TP): 0
+False Positives (FP): 0
+False Negatives (FN): 939
+True Negatives (TN): 0
+Accuracy: 0.0000
+
+Изображение: recog_2/2.jpg
+Количество гипотез (Positive): 1572
+Количество отсеянных гипотез (Negative): 968
+Сохранено изображение с рамками: output/result_2.jpg
+Таблица ошибок:
+True Positives (TP): 0
+False Positives (FP): 0
+False Negatives (FN): 1572
+True Negatives (TN): 0
+Accuracy: 0.0000
+
+Изображение: recog_2/4.jpg
+Количество гипотез (Positive): 789
+Количество отсеянных гипотез (Negative): 733
+Сохранено изображение с рамками: output/result_4.jpg
+Таблица ошибок:
+True Positives (TP): 16
+False Positives (FP): 0
+False Negatives (FN): 773
+True Negatives (TN): 0
+Accuracy: 0.0203
+
+Изображение: recog_2/5.jpg
+Количество гипотез (Positive): 1247
+Количество отсеянных гипотез (Negative): 1119
+Сохранено изображение с рамками: output/result_5.jpg
+Таблица ошибок:
+True Positives (TP): 4
+False Positives (FP): 0
+False Negatives (FN): 1243
+True Negatives (TN): 0
+Accuracy: 0.0032
+
+Изображение: recog_2/6.jpg
+Количество гипотез (Positive): 1415
+Количество отсеянных гипотез (Negative): 1228
+Сохранено изображение с рамками: output/result_6.jpg
+Таблица ошибок:
+True Positives (TP): 117
+False Positives (FP): 0
+False Negatives (FN): 1298
+True Negatives (TN): 0
+Accuracy: 0.0827
+
+Изображение: recog_2/7.jpg
+Количество гипотез (Positive): 2576
+Количество отсеянных гипотез (Negative): 2091
+Сохранено изображение с рамками: output/result_7.jpg
+Таблица ошибок:
+True Positives (TP): 0
+False Positives (FP): 0
+False Negatives (FN): 2576
+True Negatives (TN): 0
+Accuracy: 0.0000
+
+Изображение: recog_2/8.jpg
+Количество гипотез (Positive): 773
+Количество отсеянных гипотез (Negative): 569
+Сохранено изображение с рамками: output/result_8.jpg
+Таблица ошибок:
+True Positives (TP): 0
+False Positives (FP): 0
+False Negatives (FN): 773
+True Negatives (TN): 0
+Accuracy: 0.0000
+
+Изображение: recog_2/9.jpg
+Количество гипотез (Positive): 1685
+Количество отсеянных гипотез (Negative): 1596
+Сохранено изображение с рамками: output/result_9.jpg
+Таблица ошибок:
+True Positives (TP): 0
+False Positives (FP): 0
+False Negatives (FN): 1685
+True Negatives (TN): 0
+Accuracy: 0.0000
+
+Итоговые результаты по всем изображениям:
+Total True Positives (TP): 137
+Total False Positives (FP): 0
+Total False Negatives (FN): 13330
+Total True Negatives (TN): 0
+Total Accuracy: 0.0102

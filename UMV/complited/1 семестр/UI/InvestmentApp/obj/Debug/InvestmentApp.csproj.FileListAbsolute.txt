@@ -1,0 +1,137 @@
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.pdb
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\App.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.lref
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.g.resources
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.exe
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.pdb
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\Investme.FFB09F2A.Up2Date
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.AssemblyReference.cache
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\App.g.cs
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.cache
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.lref
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.exe
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.pdb
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe.config
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.pdb
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.dll
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.xml
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.baml
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.g.resources
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.Properties.Resources.resources
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.GenerateResource.cache
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Hetsu\Desktop\sht\бдибз\1 семестр\UI\InvestmentApp\obj\Debug\Investme.FFB09F2A.Up2Date
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\MainWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\MainWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\App.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.g.resources
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.exe
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\InvestmentApp.pdb
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\InvestmentApp.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\InvestmentApp.exe
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\InvestmentApp.pdb
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\EntityFramework.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\EntityFramework.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI NEW\InvestmentApp\obj\Debug\Investme.FFB09F2A.Up2Date
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddAccountWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddAccountWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\App.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddTransactionWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddTransactionWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.pdb
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditClientWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddClientWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditClientWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddClientWindow.g.cs
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.g.resources
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.Properties.Resources.resources
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.GenerateResource.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\Investme.FFB09F2A.Up2Date
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.exe
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.pdb
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditInstrumentWindow.baml
+C:\Users\vital\OneDrive\Рабочий стол\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditInstrumentWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe.config
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.exe
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\InvestmentApp.pdb
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.dll
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.xml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.AssemblyReference.cache
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditInstrumentWindow.baml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditClientWindow.baml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.baml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddAccountWindow.baml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddClientWindow.baml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddTransactionWindow.baml
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditInstrumentWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\EditViews\EditClientWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\MainWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddAccountWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddClientWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\AddViews\AddTransactionWindow.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\App.g.cs
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp_MarkupCompile.cache
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.g.resources
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.Properties.Resources.resources
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.GenerateResource.cache
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\Investme.FFB09F2A.Up2Date
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.exe
+C:\Users\Hetsu\Desktop\sht\UMV\1 семестр\UI\InvestmentApp\obj\Debug\InvestmentApp.pdb

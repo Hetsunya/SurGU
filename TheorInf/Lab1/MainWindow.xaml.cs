@@ -93,7 +93,7 @@ namespace lab1
                 { 0.32, 0.10, 0.16, 0.02 },
                 { 0.08, 0.20, 0.04, 0.08 }
             };
-            var defaultEnsembleW = new double[] { 0.40, 0.30, 0.20, 0.10 };
+            //var defaultEnsembleW = new double[] { 0.40, 0.30, 0.20, 0.10 };
 
             for (int i = 0; i < matrixJointData.Count; i++)
             {
@@ -103,10 +103,10 @@ namespace lab1
                 }
             }
 
-            for (int j = 0; j < ensembleWData.Count; j++)
-            {
-                ensembleWData[j].Value = defaultEnsembleW[j].ToString("0.00");
-            }
+            //for (int j = 0; j < ensembleWData.Count; j++)
+            //{
+            //    ensembleWData[j].Value = defaultEnsembleW[j].ToString("0.00");
+            //}
         }
 
         private void UpdateMatrixButton_Click(object sender, RoutedEventArgs e)
@@ -461,12 +461,12 @@ namespace lab1
             result.AppendLine(string.Join("\t", p_Wj.Select(p => p.ToString("0.00"))));
 
             result.AppendLine("\nЭнтропии:");
-            result.AppendLine($"H(Z) = {H_Z.ToString("0.00")}");
-            result.AppendLine($"H(W) = {H_W.ToString("0.00")}");
-            result.AppendLine($"H(Z, W) = {H_ZW.ToString("0.00")}");
-            result.AppendLine($"H_W(Z) = {H_W_Z.ToString("0.00")}");
-            result.AppendLine($"H_Z(W) = {H_Z_W.ToString("0.00")}");
-            result.AppendLine($"I(Z;W) = {I_ZW.ToString("0.00")}");
+            result.AppendLine($"H(Z) = {H_Z.ToString("0.0000")}");
+            result.AppendLine($"H(W) = {H_W.ToString("0.0000")}");
+            result.AppendLine($"H(Z, W) = {H_ZW.ToString("0.0000")}");
+            result.AppendLine($"H(Z|W) = {H_W_Z.ToString("0.0000")}");//Hw(Z)
+            result.AppendLine($"H(W|Z) = {H_Z_W.ToString("0.0000")}");//Hz(W)
+            result.AppendLine($"I(Z;W) = {I_ZW.ToString("0.0000")}");
 
             return result.ToString();
         }

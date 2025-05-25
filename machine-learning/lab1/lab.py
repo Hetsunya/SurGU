@@ -8,8 +8,8 @@ from sklearn.metrics import accuracy_score
 # pathNeg = "/home/maslenok/Рабочий стол/606-12 Демьянцев/lab1/data/movie/neg/"
 # pathPos = "/home/maslenok/Рабочий стол/606-12 Демьянцев/lab1/data/movie/pos/"
 
-pathNeg = "D:/Задания/2 семестр/python/машин. обучение/lab1/data/movie/neg"
-pathPos = "D:/Задания/2 семестр/python/машин. обучение/lab1/data/movie/pos"
+pathNeg = "data/movie/neg"
+pathPos = "data/movie/pos"
 s1 = []
 s2 = []
 

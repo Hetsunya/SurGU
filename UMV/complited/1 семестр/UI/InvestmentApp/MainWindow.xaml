@@ -1,0 +1,150 @@
+﻿<Window x:Class="InvestmentApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление инвестициями" Height="600" Width="1000">
+    <Grid>
+        <TabControl Margin="10">
+            <TabItem Header="Клиенты">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                        <Button Content="Добавить клиента" Click="AddClient_Click" Width="120" Margin="5"/>
+                        <Button Content="Редактировать клиента" Click="EditClient_Click" Width="150" Margin="5"/>
+                        <Button Content="Удалить клиента" Click="DeleteClient_Click" Width="120" Margin="5"/>
+                    </StackPanel>
+                    <DataGrid x:Name="ClientsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ФИО" Binding="{Binding FullName}"/>
+                            <DataGridTextColumn Header="Налоговый статус" Binding="{Binding TaxStatus}"/>
+                            <DataGridTextColumn Header="Email" Binding="{Binding Email}"/>
+                            <DataGridTextColumn Header="Телефон" Binding="{Binding Phone}"/>
+                            <DataGridTextColumn Header="Дата регистрации" Binding="{Binding RegistrationDate}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Счета">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                        <Button Content="Добавить счёт" Click="AddAccount_Click" Width="120" Margin="5"/>
+                        <Button Content="Удалить счёт" Click="DeleteAccount_Click" Width="120" Margin="5"/>
+                    </StackPanel>
+                    <DataGrid x:Name="AccountsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ФИО клиента" Binding="{Binding ClientName}"/>
+                            <DataGridTextColumn Header="Тип счёта" Binding="{Binding AccountType}"/>
+                            <DataGridTextColumn Header="Дата открытия" Binding="{Binding OpenDate}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Инструменты">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                        <Button Content="Редактировать инструмент" Click="EditInstrument_Click" Width="150" Margin="5"/>
+                        <Button Content="Удалить инструмент" Click="DeleteInstrument_Click" Width="120" Margin="5"/>
+                    </StackPanel>
+                    <DataGrid x:Name="InstrumentsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Категория" Binding="{Binding Category}"/>
+                            <DataGridTextColumn Header="Ожидаемая выплата за единицу" Binding="{Binding ExpectedPayoutPerUnit}"/>
+                            <DataGridTextColumn Header="Текущая цена" Binding="{Binding CurrentPrice}"/>
+                            <DataGridTextColumn Header="Ожидаемая дата выплаты" Binding="{Binding ExpectedPayoutDate}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Транзакции">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                        <Button Content="Добавить транзакцию" Click="AddTransaction_Click" Width="150" Margin="5"/>
+                        <Button Content="Удалить транзакцию" Click="DeleteTransaction_Click" Width="120" Margin="5"/>
+                    </StackPanel>
+                    <DataGrid x:Name="TransactionsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Номер транзакции" Binding="{Binding TransactionId}"/>
+                            <DataGridTextColumn Header="Код счёта" Binding="{Binding AccountId}"/>
+                            <DataGridTextColumn Header="Название инструмента" Binding="{Binding InstrumentName}"/>
+                            <DataGridTextColumn Header="Тип" Binding="{Binding Type}"/>
+                            <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}"/>
+                            <DataGridTextColumn Header="Цена за единицу" Binding="{Binding PricePerUnit}"/>
+                            <DataGridTextColumn Header="Комиссия" Binding="{Binding Commission}"/>
+                            <DataGridTextColumn Header="Дата транзакции" Binding="{Binding TransactionDate}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Выплаты и налоги">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                        <Button Content="Рассчитать дивиденды" Click="CalculateDividends_Click" Width="150" Margin="5"/>
+                    </StackPanel>
+                    <DataGrid x:Name="PayoutsGrid" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Номер выплаты" Binding="{Binding PayoutId}"/>
+                            <DataGridTextColumn Header="Номер транзакции" Binding="{Binding TransactionId}"/>
+                            <DataGridTextColumn Header="Код счёта" Binding="{Binding AccountId}"/>
+                            <DataGridTextColumn Header="Название инструмента" Binding="{Binding InstrumentName}"/>
+                            <DataGridTextColumn Header="Тип" Binding="{Binding Type}"/>
+                            <DataGridTextColumn Header="Сумма" Binding="{Binding Amount}"/>
+                            <DataGridTextColumn Header="Дата выплаты" Binding="{Binding PayoutDate}"/>
+                            <DataGridTextColumn Header="Сумма налога" Binding="{Binding TaxAmount}"/>
+                            <DataGridTextColumn Header="Срок уплаты налога" Binding="{Binding TaxDueDate}"/>
+                            <DataGridTextColumn Header="Основание налога" Binding="{Binding TaxCalculationBasis}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Уведомления">
+                <Grid>
+                    <DataGrid x:Name="NotificationsGrid" AutoGenerateColumns="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ФИО клиента" Binding="{Binding ФИОКлиента}"/>
+                            <DataGridTextColumn Header="Уведомление" Binding="{Binding Уведомление}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Отчёты">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                        <Button Content="Портфель" Click="PortfolioReport_Click" Width="100" Margin="5"/>
+                        <Button Content="Финансовое положение" Click="FinancialPositionReport_Click" Width="150" Margin="5"/>
+                        <Button Content="Профиль клиента" Click="ClientProfileReport_Click" Width="120" Margin="5"/>
+                        <Button Content="Инструменты счёта" Click="AccountInstrumentsReport_Click" Width="150" Margin="5"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+                        <Label Content="Код счёта для отчёта:" Margin="5,0"/>
+                        <TextBox x:Name="AccountIdForReportTextBox" Width="100" Margin="5"/>
+                    </StackPanel>
+                    <DataGrid x:Name="ReportsGrid" Grid.Row="2" AutoGenerateColumns="True" IsReadOnly="True"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,519 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Страница — 1" id="l7Aniiyhmfa446S-RoM-">
+    <mxGraphModel dx="4261" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-2" target="OVfSbTxyTq0TTDnVCe_T-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4StrlMHA59hDWWZ7YnD1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-2" target="OVfSbTxyTq0TTDnVCe_T-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-2" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q1: Is capital preservation your primary goal? - Является ли сохранение капитала вашей основной целью?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="385" y="20" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-3" target="OVfSbTxyTq0TTDnVCe_T-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-3" target="2kH5Foxya9Uprb5NJpMq-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-3" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q3: Is generating regular income your priority? - Является ли получение регулярного дохода вашим приоритетом?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="160" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-4" target="OVfSbTxyTq0TTDnVCe_T-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-4" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q2: Are you willing to accept any investment risk? - Готовы ли вы принять какой-либо инвестиционный риск?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-316" y="150" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-8" target="OVfSbTxyTq0TTDnVCe_T-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-950" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-8" target="OVfSbTxyTq0TTDnVCe_T-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-8" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q4: Do you want over 50% of your portfolio in safe assets? - Хотите ли вы более 50% портфеля в безопасных активах?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="290" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-17" target="OVfSbTxyTq0TTDnVCe_T-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-207" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-17" target="OVfSbTxyTq0TTDnVCe_T-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-17" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q7: Are you comfortable with market fluctuations? - Комфортно ли вам с колебаниями рынка?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-575" y="430" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-19" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R1: Invest_in_bonds_or_deposits - Инвестируйте в облигации или депозиты&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-999" y="430" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-24" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R3: Invest_in_stable_funds - Инвестируйте в стабильные фонды&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-285" y="590" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-39" target="Fa5fMqt53PP2lkEZTv6_-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-919" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-39" target="OVfSbTxyTq0TTDnVCe_T-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-544" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-39" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q12: Do you prefer sector-focused investments? - Предпочитаете ли вы инвестиции, ориентированные на сектора?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-829" y="580" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-43" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R5: Invest_in_market_funds - Инвестируйте в фонды широкого рынка&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="750" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-53" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-131" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-54" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-55" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-59" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="525" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-60" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-939" y="680" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-69" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-46" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-70" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="675" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-71" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-425" y="380" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-74" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-272" y="525" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-80" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R4: Invest_in_ESG_stocks - Инвестируйте в акции с учетом ESG&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="559.62" width="190" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-81" target="OVfSbTxyTq0TTDnVCe_T-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-81" target="2kH5Foxya9Uprb5NJpMq-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-81" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q5: Do you need high dividend yields (&amp;gt;5%)? - Нужны ли вам высокие дивидендные доходности (&amp;gt;5%)?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="770" y="280" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-83" target="OVfSbTxyTq0TTDnVCe_T-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-83" target="Fa5fMqt53PP2lkEZTv6_-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="567.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-83" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q8: Do you value ESG factors in your investments? - Цените ли вы ESG-факторы в инвестициях?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="414.62" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-87" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1081" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-90" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="499.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-104" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="895" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-105" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="569" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVfSbTxyTq0TTDnVCe_T-106" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="245" y="499.62" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVfSbTxyTq0TTDnVCe_T-4" target="Fa5fMqt53PP2lkEZTv6_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-98" y="230" as="sourcePoint" />
+            <mxPoint x="-41" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-1" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R1: Invest_in_bonds_or_deposits - Инвестируйте в облигации или депозиты&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="300" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fa5fMqt53PP2lkEZTv6_-8" target="Fa5fMqt53PP2lkEZTv6_-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1184" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-8" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q17: Do you prefer international diversification? - Предпочитаете ли вы международную диверсификацию?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1064" y="750" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-10" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="680" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Fa5fMqt53PP2lkEZTv6_-8" target="Fa5fMqt53PP2lkEZTv6_-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-601" y="670" as="sourcePoint" />
+            <mxPoint x="-735" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-15" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1169" y="860" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-16" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-774" y="860" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-17" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R9: Invest_in_global_funds - Инвестируйте в международные фонды&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1240" y="945.75" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-18" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R8: Invest_in_sector_funds - Инвестируйте в фонды определенного сектора&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-840" y="945.75" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Fa5fMqt53PP2lkEZTv6_-25" target="2kH5Foxya9Uprb5NJpMq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379" y="714.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Fa5fMqt53PP2lkEZTv6_-25" target="Fa5fMqt53PP2lkEZTv6_-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-25" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q13: Are you interested in active portfolio management? - Интересует ли вас активное управление портфелем?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="415" y="559.62" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-28" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="368.5" y="644.62" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fa5fMqt53PP2lkEZTv6_-43" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R5: Invest_in_market_funds - Инвестируйте в фонды широкого рынка&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="624" y="714.62" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-3" target="2kH5Foxya9Uprb5NJpMq-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="131" y="889.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-3" target="2kH5Foxya9Uprb5NJpMq-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506" y="889.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-3" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q12: Do you prefer sector-focused investments? - Предпочитаете ли вы инвестиции, ориентированные на сектора?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="221" y="719.62" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-4" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R5: Invest_in_market_funds - Инвестируйте в фонды широкого рынка&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="398" y="889.62" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-5" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="810" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-7" target="2kH5Foxya9Uprb5NJpMq-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-134" y="1079.6200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-7" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q17: Do you prefer international diversification? - Предпочитаете ли вы международную диверсификацию?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-14" y="889.62" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-8" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="820" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-7" target="2kH5Foxya9Uprb5NJpMq-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="809.62" as="sourcePoint" />
+            <mxPoint x="315" y="1079.6200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-10" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="995" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-11" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="276" y="999.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-12" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R9: Invest_in_international_ETFs - Инвестируйте в международные ETF&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="1085.3700000000001" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-13" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R8: Invest_in_sector_ETFs - Инвестируйте в ETF определенного сектора&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1085.3700000000001" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-14" target="2kH5Foxya9Uprb5NJpMq-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-14" target="2kH5Foxya9Uprb5NJpMq-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-14" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q9: Do you have significant savings to invest (&amp;gt;30% income)? - Есть ли у вас значительные сбережения для инвестиций (&amp;gt;30% дохода)?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="424.62" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-15" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="687" y="654.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-16" target="2kH5Foxya9Uprb5NJpMq-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-16" target="2kH5Foxya9Uprb5NJpMq-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-16" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q14: Do you understand tax implications of investments? - Понимаете ли вы налоговые последствия инвестиций?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="560" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-19" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R3: Invest_in_stable_funds - Инвестируйте в стабильные фонды&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1450" y="561" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-21" target="2kH5Foxya9Uprb5NJpMq-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-21" target="2kH5Foxya9Uprb5NJpMq-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-21" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q10: Are you ready to allocate most of your portfolio to stocks? - Готовы ли вы выделить большую часть портфеля на акции?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="885" y="674.62" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-23" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R3: Invest_in_stable_funds - Инвестируйте в стабильные фонды&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1269.5" y="674.62" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2kH5Foxya9Uprb5NJpMq-25" target="2kH5Foxya9Uprb5NJpMq-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;jumpStyle=arc;" parent="1" source="2kH5Foxya9Uprb5NJpMq-25" target="2kH5Foxya9Uprb5NJpMq-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="890" />
+              <mxPoint x="590" y="890" />
+              <mxPoint x="590" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-25" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q15: Is high liquidity critical for your investments? - Критична ли высокая ликвидность для ваших инвестиций?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="770" y="799.62" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-28" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R6: Balanced_stocks_and_bonds - Сбалансированный портфель акций и облигаций&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="799.62" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;jumpStyle=arc;" parent="1" source="2kH5Foxya9Uprb5NJpMq-44" target="2kH5Foxya9Uprb5NJpMq-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1000" />
+              <mxPoint x="595" y="1000" />
+              <mxPoint x="595" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;jumpStyle=arc;" parent="1" source="2kH5Foxya9Uprb5NJpMq-44" target="2kH5Foxya9Uprb5NJpMq-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1040" />
+              <mxPoint x="380" y="1040" />
+              <mxPoint x="380" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-44" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q18: Are you familiar with investment strategies? - Знакомы ли вы со стратегиями инвестирования?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="620" y="920" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-49" target="2kH5Foxya9Uprb5NJpMq-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1877" y="430" />
+              <mxPoint x="1680" y="430" />
+              <mxPoint x="1680" y="780" />
+              <mxPoint x="1210" y="780" />
+              <mxPoint x="1210" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-49" target="2kH5Foxya9Uprb5NJpMq-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-49" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q6: Are you focused on long-term growth (&amp;gt;10 years)? - Ориентированы ли вы на долгосрочный рост (&amp;gt;10 лет)?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="285" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-52" target="2kH5Foxya9Uprb5NJpMq-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-52" target="2kH5Foxya9Uprb5NJpMq-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-52" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q11: Do you have experience in speculative trading? - Есть ли у вас опыт в спекулятивной торговле?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2130" y="430" width="210" height="59.62" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-55" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R2: Take_investment_course - Пройдите курс по инвестициям&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2420" y="540" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-57" target="2kH5Foxya9Uprb5NJpMq-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1905.499999999999" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-57" target="2kH5Foxya9Uprb5NJpMq-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-57" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q16: Are you willing to accept high losses for potential gains? - Готовы ли вы принять высокие убытки ради потенциальной прибыли?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1970" y="540" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-63" target="2kH5Foxya9Uprb5NJpMq-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-63" target="2kH5Foxya9Uprb5NJpMq-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-63" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q19: Do you have access to professional financial advice? - Есть ли у вас доступ к профессиональным финансовым консультациям?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="650" width="212" height="64.62" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-65" target="2kH5Foxya9Uprb5NJpMq-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="2kH5Foxya9Uprb5NJpMq-65" target="2kH5Foxya9Uprb5NJpMq-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-65" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q20: Are you willing to dedicate time to market research? - Готовы ли вы уделять время изучению рынка?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="775.38" width="212" height="64.62" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-69" target="2kH5Foxya9Uprb5NJpMq-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3143" y="812.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-69" target="2kH5Foxya9Uprb5NJpMq-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-69" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q7: Are you comfortable with market fluctuations? - Комфортно ли вам с колебаниями рынка?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2780" y="670" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-71" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R3: Invest_in_stable_funds - Инвестируйте в стабильные фонды&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3025" y="810" width="156" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-74" target="2kH5Foxya9Uprb5NJpMq-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2431" y="972.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-74" target="2kH5Foxya9Uprb5NJpMq-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2806" y="972.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-74" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q12: Do you prefer sector-focused investments? - Предпочитаете ли вы инвестиции, ориентированные на сектора?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2521" y="802.5" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-75" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R5: Invest_in_market_funds - Инвестируйте в фонды широкого рынка&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2740" y="972.5" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-76" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2740" y="747.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-77" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2411" y="902.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-78" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3050" y="744.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-80" target="2kH5Foxya9Uprb5NJpMq-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2166" y="1162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-80" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q17: Do you prefer international diversification? - Предпочитаете ли вы международную диверсификацию?&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="2286" y="972.5" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-81" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2780" y="902.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2kH5Foxya9Uprb5NJpMq-80" target="2kH5Foxya9Uprb5NJpMq-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2749" y="892.5" as="sourcePoint" />
+            <mxPoint x="2615" y="1162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-83" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2181" y="1082.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-84" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2576" y="1082.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-85" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R9: Invest_in_international_ETFs - Инвестируйте в международные ETF&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2110" y="1168.25" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-86" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R8: Invest_in_sector_ETFs - Инвестируйте в ETF определенного сектора&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2510" y="1168.25" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-87" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3240" y="1217.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-88" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R10: Invest_in_high_risk_stocks - Инвестируйте в акции с высоким риском&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1690" y="775.38" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-89" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R10: Invest_in_high_risk_stocks - Инвестируйте в акции с высоким риском&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="910" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-90" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R2: Take_investment_course - Пройдите курс по инвестициям&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2068" y="915" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-96" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-98" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="489.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-99" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="610" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-100" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2102" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-101" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2010" y="720" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-102" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1440.5" y="499.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-103" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="624.62" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-104" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="745.38" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-105" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="855" y="745.38" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-106" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="990" y="624.62" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-107" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-108" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="827" y="902.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-109" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="600" y="852.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-110" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="463.5" y="1042.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-111" value="НЕТ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="559" y="985.75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-112" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1755.5" y="715.38" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-113" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1885.5" y="845.38" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-114" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2048" y="489.62" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2kH5Foxya9Uprb5NJpMq-115" value="ДА" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

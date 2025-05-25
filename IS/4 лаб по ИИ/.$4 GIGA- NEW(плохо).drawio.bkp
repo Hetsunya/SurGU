@@ -1,0 +1,455 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Страница — 1" id="l7Aniiyhmfa446S-RoM-">
+    <mxGraphModel dx="3703" dy="2435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-1" target="s3EYGCrZWURwWZXsR_NE-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-48" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;INCOME - Получение дохода&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.0957" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-94" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-1" target="s3EYGCrZWURwWZXsR_NE-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-96" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;GROWTH - Рост капитала&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-94" vertex="1" connectable="0">
+          <mxGeometry x="-0.1127" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-239" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;SPECULATE - Спекуляции &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-1" target="s3EYGCrZWURwWZXsR_NE-240" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-1" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q1: What is your primary investment goal? - Какова ваша основная цель инвестирования?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="230" y="-261.67" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-1" target="s3EYGCrZWURwWZXsR_NE-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-530" y="50" as="targetPoint" />
+            <mxPoint x="-240" y="56" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-6" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;PRESERVE - Сохранение капитала&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.3849" y="-2" relative="1" as="geometry">
+            <mxPoint x="-135" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.921;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-49" target="s3EYGCrZWURwWZXsR_NE-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-51" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;MODERATE - Умеренный&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.1968" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-55" target="s3EYGCrZWURwWZXsR_NE-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-57" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;NO - Нет&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-56" vertex="1" connectable="0">
+          <mxGeometry x="-0.1305" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-93" value="" style="group;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-60" y="25" width="500" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-93" source="s3EYGCrZWURwWZXsR_NE-49" target="s3EYGCrZWURwWZXsR_NE-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-54" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HIGH - Высокий&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.2367" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-49" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q3: What level of dividend yield do you expect? - Какой уровень дивидендной доходности вы ожидаете?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-93" vertex="1">
+          <mxGeometry y="-25" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-93" source="s3EYGCrZWURwWZXsR_NE-55" target="s3EYGCrZWURwWZXsR_NE-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-59" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-58" vertex="1" connectable="0">
+          <mxGeometry x="-0.0515" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-55" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q7: Do you consider environmental, social, and governance (ESG) factors? - Учитываете ли вы экологические, социальные и управленческие (ESG) факторы?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-93" vertex="1">
+          <mxGeometry x="100" y="165" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-92" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R4: Invest_in_ESG_stocks_or_ETFs - Инвестируйте в акции или ETF с учетом ESG&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-93" vertex="1">
+          <mxGeometry x="160" y="315" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-97" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;SHORT - Краткосрочный &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-95" target="s3EYGCrZWURwWZXsR_NE-99" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1396" y="378.33" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-108" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;MEDIUM - Среднесрочный &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-95" target="s3EYGCrZWURwWZXsR_NE-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1596" y="-51.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-237" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;HIGH - Высокий (&amp;gt;30%) &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-95" target="s3EYGCrZWURwWZXsR_NE-103" edge="1">
+          <mxGeometry x="-0.766" y="-18" relative="1" as="geometry">
+            <mxPoint x="2076" y="-211.67000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1726" y="148.32999999999998" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-95" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q4: What is your investment time horizon? - Какой у вас горизонт инвестиций?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1216" y="-261.67" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-100" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;NO - Нет &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-99" target="s3EYGCrZWURwWZXsR_NE-101" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1246" y="388.33" as="targetPoint" />
+            <mxPoint x="1466" y="318.33" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-102" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;YES - Да &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-99" target="s3EYGCrZWURwWZXsR_NE-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1546" y="428.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-99" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q9: Are you ready to actively manage your portfolio? - Готовы ли вы активно управлять портфелем?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1070" y="-41.67" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-101" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R3:&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Invest_in_low_volatility_ETFs - Инвестируйте в ETF с низкой волатильностью&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1180" y="100" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-104" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;LOW - Низкий (&amp;lt;10%)&lt;/p&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-103" target="s3EYGCrZWURwWZXsR_NE-7" edge="1">
+          <mxGeometry x="-0.8634" y="7" relative="1" as="geometry">
+            <mxPoint x="330" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="514" y="393" />
+              <mxPoint x="514" y="550" />
+              <mxPoint x="-50" y="550" />
+              <mxPoint x="-50" y="350" />
+              <mxPoint x="-120" y="350" />
+              <mxPoint x="-120" y="230" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-103" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q12: What level of volatility are you willing to tolerate? - Какой уровень волатильности вы готовы терпеть?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="870" y="320" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-112" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;LOW - Низкий &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-110" target="s3EYGCrZWURwWZXsR_NE-111" edge="1">
+          <mxGeometry x="0.0051" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-115" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;MEDIUM - Средний &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-110" target="s3EYGCrZWURwWZXsR_NE-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900.9999999999995" y="138.32999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-110" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q9: What percentage of your income are you ready to invest monthly? - Какой процент дохода вы готовы инвестировать ежемесячно?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1636" y="-41.67" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-114" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;YES - Да &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s3EYGCrZWURwWZXsR_NE-111" target="y7LEk1Rot1jWX2FM2Opx-2" edge="1">
+          <mxGeometry x="-0.1752" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1540" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-111" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q14: Do you have knowledge of tax implications for investments? - Знаете ли вы о налоговых последствиях инвестиций?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1656" y="138.32999999999998" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-113" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;NO - Нет &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=none;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-111" target="s3EYGCrZWURwWZXsR_NE-101" edge="1">
+          <mxGeometry x="-0.0054" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-209" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-116" target="s3EYGCrZWURwWZXsR_NE-210" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1956" y="308.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-211" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-116" target="s3EYGCrZWURwWZXsR_NE-218" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2146" y="358.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-212" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;MEDIUM - Среднюю (25-50%)&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-211" vertex="1" connectable="0">
+          <mxGeometry x="-0.1706" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-213" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-116" target="s3EYGCrZWURwWZXsR_NE-218" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2316" y="328.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-214" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HIGH - Высокую (&amp;gt;50%)&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-213" vertex="1" connectable="0">
+          <mxGeometry x="-0.36" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-116" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q10: What percentage of your portfolio do you want in growth stocks? - Какую долю портфеля вы хотите в акциях роста?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="2016" y="138.32999999999998" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-3" target="s3EYGCrZWURwWZXsR_NE-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-9" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;LOW - Низкий&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-8" vertex="1" connectable="0">
+          <mxGeometry x="0.0794" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-3" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q2: What level of risk are you willing to accept to preserve capital? - Какой уровень риска вы готовы принять для сохранения капитала?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-740" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-7" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q6: What percentage of your portfolio do you want in protective assets? - Какую долю портфеля вы хотите в защитных активах?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-630" y="190" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-11" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R1: Invest_in_bonds_or_deposits - Инвестируйте в облигации или депозиты&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-980" y="320" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.641;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-7" target="s3EYGCrZWURwWZXsR_NE-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-13" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;HIGH - Высокую &lt;/p&gt;&#xa;&#xa;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.1873" y="4" relative="1" as="geometry">
+            <mxPoint x="-19" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-7" target="s3EYGCrZWURwWZXsR_NE-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-17" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;MODERATE - Умеренную&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.099" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-3" target="s3EYGCrZWURwWZXsR_NE-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-19" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;MINIMAL - Минимальный&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.3605" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-117" value="" style="group;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1440" y="400" width="1350" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-15" target="s3EYGCrZWURwWZXsR_NE-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-43" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;NONE - Нет предпочтений&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-42" vertex="1" connectable="0">
+          <mxGeometry x="0.2808" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-15" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q8: Which sector do you prefer to invest in? - В какой сектор вы предпочитаете инвестировать?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry x="910" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-20" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q13: How important is liquidity of your investments? - Насколько важна ликвидность ваших инвестиций?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry x="580" y="170" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-15" target="s3EYGCrZWURwWZXsR_NE-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-24" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;TECH - Технологии&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.1008" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-20" target="s3EYGCrZWURwWZXsR_NE-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="330" as="targetPoint" />
+            <mxPoint x="580" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-30" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HIGH - Высокий&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.0243" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-27" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q15: Do you prefer to invest in international markets? - Предпочитаете ли вы инвестировать в международные рынки?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry x="230" y="350" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-31" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R9: Invest_in_international_ETFs - Инвестируйте в международные ETF&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry y="520" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-32" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;YES - Да &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.534;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-27" target="s3EYGCrZWURwWZXsR_NE-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-33" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R8: Invest_in_sector_ETFs - Инвестируйте в ETF определенного сектора&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry x="510" y="530" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-27" target="s3EYGCrZWURwWZXsR_NE-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-36" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;NO - Нет&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.1063" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-37" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R7: Invest_in_sector_stocks - Инвестируйте в акции определенного сектора&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry x="830" y="330" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.336;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-20" target="s3EYGCrZWURwWZXsR_NE-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-39" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;LOW - Низкий&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" source="s3EYGCrZWURwWZXsR_NE-15" target="s3EYGCrZWURwWZXsR_NE-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-41" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HEALTH - Здравоохранение&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-40" vertex="1" connectable="0">
+          <mxGeometry x="0.347" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-44" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R5: Invest_in_broad_market_ETFs - Инвестируйте в ETF широкого рынка&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-117" vertex="1">
+          <mxGeometry x="1070" y="185" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-210" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R6: Balanced_stocks_and_bonds - Сбалансированный портфель акций и облигаций&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1776" y="303.33" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-218" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q8: Which sector do you prefer to invest in? - В какой сектор вы предпочитаете инвестировать?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="2076" y="388.33" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-236" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-218" target="s3EYGCrZWURwWZXsR_NE-218" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-241" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-240" target="s3EYGCrZWURwWZXsR_NE-242" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-243" value="&#xa;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;YES - Да &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-240" target="s3EYGCrZWURwWZXsR_NE-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-240" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q5: Do you have experience in speculative trading? - Есть ли у вас опыт в спекулятивной торговле?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="550" y="-20" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-242" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot; dir=&quot;ltr&quot;&gt;R2: Take_investment_course - Пройдите курс по инвестициям&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="520" y="90.00000000000001" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="y7LEk1Rot1jWX2FM2Opx-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1135" y="510" width="1350" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-219" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q13: How important is liquidity of your investments? - Насколько важна ликвидность ваших инвестиций?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" vertex="1">
+          <mxGeometry x="580" y="170" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-222" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" source="s3EYGCrZWURwWZXsR_NE-219" target="s3EYGCrZWURwWZXsR_NE-224" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="330" as="targetPoint" />
+            <mxPoint x="580" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-223" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HIGH - Высокий&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-222" vertex="1" connectable="0">
+          <mxGeometry x="-0.0243" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-224" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 []&quot;&gt;q15: Do you prefer to invest in international markets? - Предпочитаете ли вы инвестировать в международные рынки?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" vertex="1">
+          <mxGeometry x="230" y="350" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-225" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R9: Invest_in_international_ETFs - Инвестируйте в международные ETF&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" vertex="1">
+          <mxGeometry y="520" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-226" value="&#xa;&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;YES - Да &lt;/p&gt;&#xa;&#xa;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.534;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" source="s3EYGCrZWURwWZXsR_NE-224" target="s3EYGCrZWURwWZXsR_NE-225" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-227" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R8: Invest_in_sector_ETFs - Инвестируйте в ETF определенного сектора&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" vertex="1">
+          <mxGeometry x="510" y="530" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-228" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" source="s3EYGCrZWURwWZXsR_NE-224" target="s3EYGCrZWURwWZXsR_NE-227" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-229" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;NO - Нет&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-228" vertex="1" connectable="0">
+          <mxGeometry x="-0.1063" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-230" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R7: Invest_in_sector_stocks - Инвестируйте в акции определенного сектора&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" vertex="1">
+          <mxGeometry x="830" y="330" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-231" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.336;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" source="s3EYGCrZWURwWZXsR_NE-219" target="s3EYGCrZWURwWZXsR_NE-230" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-232" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;LOW - Низкий&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-231" vertex="1" connectable="0">
+          <mxGeometry x="-0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-235" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{},&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;R5: Invest_in_broad_market_ETFs - Инвестируйте в ETF широкого рынка&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;labelBackgroundColor=none;fontStyle=0" parent="y7LEk1Rot1jWX2FM2Opx-1" vertex="1">
+          <mxGeometry x="1070" y="185" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-220" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-218" target="s3EYGCrZWURwWZXsR_NE-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-221" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;TECH - Технологии&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-220" vertex="1" connectable="0">
+          <mxGeometry x="-0.1008" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-233" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-218" target="s3EYGCrZWURwWZXsR_NE-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-234" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HEALTH - Здравоохранение&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-233" vertex="1" connectable="0">
+          <mxGeometry x="0.347" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-216" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0" parent="1" source="s3EYGCrZWURwWZXsR_NE-218" target="s3EYGCrZWURwWZXsR_NE-235" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-217" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;NONE - Нет предпочтений&amp;nbsp;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;fontStyle=0" parent="s3EYGCrZWURwWZXsR_NE-216" vertex="1" connectable="0">
+          <mxGeometry x="0.2808" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3EYGCrZWURwWZXsR_NE-106" value="&lt;p dir=&quot;ltr&quot; data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,{&amp;quot;tight&amp;quot;:true,&amp;quot;dir&amp;quot;:&amp;quot;ltr&amp;quot;},&amp;quot;listItem&amp;quot;,{}]&quot;&gt;HIGH - Высокий (&amp;gt;20%)&amp;nbsp;&lt;/p&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="s3EYGCrZWURwWZXsR_NE-103" target="s3EYGCrZWURwWZXsR_NE-15" edge="1">
+          <mxGeometry x="-0.9228" relative="1" as="geometry">
+            <mxPoint x="660" y="460" as="sourcePoint" />
+            <mxPoint x="974" y="610" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1070" y="590" />
+              <mxPoint x="-100" y="590" />
+              <mxPoint x="-100" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7LEk1Rot1jWX2FM2Opx-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="y7LEk1Rot1jWX2FM2Opx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359.9999999999995" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7LEk1Rot1jWX2FM2Opx-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="y7LEk1Rot1jWX2FM2Opx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1670" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y7LEk1Rot1jWX2FM2Opx-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot; dir=&quot;ltr&quot;&gt;q11: What percentage of your portfolio do you want in growth stocks? - Какую долю портфеля вы хотите в акциях роста?&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1330" y="308.33" width="400" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

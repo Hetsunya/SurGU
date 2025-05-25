@@ -1,0 +1,17 @@
+digraph tree_0_2996846378192 {
+	node [shape=ellipse]
+	2996846378192 [label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0"><TR>
+                    <TD port="left"><SUB><i>l</i></SUB></TD>
+                    <TD CELLPADDING="7"><b>0</b></TD>
+                    <TD port="right"><SUB><i>r</i></SUB></TD></TR></TABLE>>]
+	2996846377616 [label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0"><TR>
+                    <TD port="left"> </TD>
+                    <TD CELLPADDING="7"><b>1</b></TD>
+                    <TD port="right"> </TD></TR></TABLE>>]
+	2996846378192:left -> 2996846377616
+	2996855208352 [label=<<TABLE BORDER="0" CELLBORDER="0" CELLSPACING="0"><TR>
+                    <TD port="left"> </TD>
+                    <TD CELLPADDING="7"><b>2</b></TD>
+                    <TD port="right"> </TD></TR></TABLE>>]
+	2996846378192:right -> 2996855208352
+}

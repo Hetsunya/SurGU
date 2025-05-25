@@ -1,33 +1,29 @@
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
-import numpy as np
 
-# Загрузка данных (пример)
-data = pd.read_csv("AirQualityUCI.csv", delimiter=';')
-data['CO(GT)'] = data['CO(GT)'].replace(',', '.', regex=True).astype(float)
+# Шаг 1: Загрузка и подготовка данных
+data_path = 'AirQualityUCI.csv'
+data = pd.read_csv(data_path, sep=';', decimal=",")
+data_clean = data.dropna(subset=['RH'])
+time_series = data_clean['RH'][2500:3250].astype(float).copy()
 
-# Выбор значений p и q
-p, q = 1, 1
+# Шаг 2: Построение модели ARMA(p, q) и предсказания
+p, q = 2, 2  # Указываем порядок модели ARMA(p, q)
+model_arma = ARIMA(time_series, order=(p, 0, q))  # ARMA — это ARIMA без интеграции (d=0)
+model_arma_fitted = model_arma.fit()
 
-# Создание и обучение модели ARIMA с другими параметрами
-model = ARIMA(data['CO(GT)'], order=(p, 0, q))
-# results = model.fit()
-# Используем другие методы оптимизации и выводим информацию
-results = model.fit()
-print(results.summary())
-
-
-# Предсказание n значений вперед
-n = 1000
-forecast = results.predict(start=len(data), end=len(data) + n - 1, dynamic=False)
+# Прогноз на 10 шагов вперед
+forecast_arma = model_arma_fitted.forecast(steps=10)
 
 # Построение графика
-plt.figure(figsize=(40, 5))
-plt.plot(data['CO(GT)'], label='Actual Data')
-plt.plot(range(len(data), len(data) + n), forecast, label='ARIMA Forecast', linestyle='--', color='red')
-plt.title('ARIMA Model Forecast')
-plt.xlabel('Time')
-plt.ylabel('CO(GT)')
+plt.figure(figsize=(14, 7))
+plt.plot(time_series.index, time_series, label='Фактический временной ряд', color='blue')
+forecast_idx = range(time_series.index[-1] + 1, time_series.index[-1] + 11)
+plt.plot(forecast_idx, forecast_arma.values, label=f'Прогноз ARMA({p},{q})', color='red', linestyle='--')
+plt.xlabel('Индекс')
+plt.ylabel('Концентрация RH')
+plt.title(f'Прогноз временного ряда с использованием модели ARMA({p},{q})')
 plt.legend()
 plt.show()

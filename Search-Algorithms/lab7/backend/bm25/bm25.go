@@ -1,6 +1,7 @@
 package bm25
 
 import (
+	"database/sql"
 	"log"
 	"math"
 	"strings"
@@ -9,15 +10,7 @@ import (
 )
 
 // CalculateBM25 вычисляет BM25 для списка документов
-func CalculateBM25(queryWords []string, documents []models.Document, k1 float64, b float64, allDocs map[int]models.Document) []models.Document {
-	// Вычисляем среднюю длину документа
-	totalLength := 0.0
-	for _, doc := range allDocs {
-		totalLength += float64(len(strings.Fields(doc.Content)))
-	}
-	avgDocLength := totalLength / float64(len(allDocs))
-	log.Printf("Average document length: %f", avgDocLength)
-
+func CalculateBM25(queryWords []string, documents []models.Document, k1, b float64, allDocs map[int]models.Document, frequencies map[int]map[string]int, db *sql.DB, avgDocLength float64) []models.Document {
 	var scoredResults []models.Document
 	for _, doc := range documents {
 		score := 0.0
@@ -25,10 +18,12 @@ func CalculateBM25(queryWords []string, documents []models.Document, k1 float64,
 		log.Printf("Document: %s, Length: %f", doc.Title, docLength)
 
 		for _, word := range queryWords {
-			tf := calculateTermFrequency(word, doc)
-			idf := calculateInverseDocumentFrequency(word, documents)
-			log.Printf("Word: %s, TF: %f, IDF: %f", word, tf, idf)
-			score += idf * (tf * (k1 + 1)) / (tf + k1*(1-b+b*(docLength/avgDocLength)))
+			tf := calculateTermFrequency(word, doc, frequencies[doc.ID])
+			idf := calculateInverseDocumentFrequency(word, allDocs, db)
+			idf = math.Max(idf, 2.0) // Минимальный порог IDF
+			wordScore := idf * (tf * (k1 + 1)) / (tf + k1*(1-b+b*(docLength/avgDocLength)))
+			log.Printf("Word: %s, TF: %f, IDF: %f, WordScore: %f", word, tf, idf, wordScore)
+			score += wordScore
 		}
 		log.Printf("Final BM25 score for Document: %s, Score: %f", doc.Title, score)
 		doc.Score = score
@@ -38,28 +33,37 @@ func CalculateBM25(queryWords []string, documents []models.Document, k1 float64,
 	return sortByScore(scoredResults)
 }
 
-// calculateTermFrequency считает TF с учётом Content
-func calculateTermFrequency(word string, doc models.Document) float64 {
-	count := 0
-	words := strings.Fields(doc.Content)
-	for _, w := range words {
-		if strings.ToLower(w) == word {
-			count++
-		}
+// calculateTermFrequency использует частоту из index_table
+func calculateTermFrequency(word string, doc models.Document, freqMap map[string]int) float64 {
+	count := freqMap[word]
+	totalWords := len(strings.Fields(doc.Content)) + len(strings.Fields(doc.Title))
+	log.Printf("TF for word %s in document %s: count=%d, total words=%d", word, doc.Title, count, totalWords)
+	if totalWords == 0 {
+		return 0
 	}
-	return float64(count) / float64(len(words))
+	return float64(count) / float64(totalWords)
 }
 
-// calculateInverseDocumentFrequency считает IDF
-func calculateInverseDocumentFrequency(word string, documents []models.Document) float64 {
-	docCount := len(documents)
-	docWithWord := 0
-	for _, doc := range documents {
-		if strings.Contains(strings.ToLower(doc.Content), word) {
-			docWithWord++
-		}
+// calculateInverseDocumentFrequency использует word_stats
+func calculateInverseDocumentFrequency(word string, allDocs map[int]models.Document, db *sql.DB) float64 {
+	var docCount, docsWithWord int
+	err := db.QueryRow("SELECT COUNT(*) FROM documents").Scan(&docCount)
+	if err != nil {
+		log.Printf("Error querying document count: %v", err)
+		return 0
 	}
-	return math.Log(float64(docCount) / float64(docWithWord+1))
+	err = db.QueryRow("SELECT doc_count FROM word_stats WHERE word = ?", word).Scan(&docsWithWord)
+	if err == sql.ErrNoRows {
+		log.Printf("Word %s not found in word_stats", word)
+		return 0
+	}
+	if err != nil {
+		log.Printf("Error querying word_stats: %v", err)
+		return 0
+	}
+	idf := math.Log(float64(docCount) / float64(docsWithWord+1))
+	log.Printf("IDF for word %s: %f (appears in %d of %d documents)", word, idf, docsWithWord, docCount)
+	return idf
 }
 
 // sortByScore сортирует документы по убыванию Score

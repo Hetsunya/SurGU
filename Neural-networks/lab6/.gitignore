@@ -1,1 +1,4 @@
 *.npy
+*.txt
+
+result/
