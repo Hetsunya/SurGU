@@ -1,0 +1,53 @@
+‘а ў­Ґ­ЁҐ д ©«®ў a.txt Ё B.TXT
+***** a.txt
+Apple - Яблоко
+Lemon - лимон
+pineapple - АНАНАС
+WATERMELON - арбуз
+Pear - Груша
+Grape - виноград
+BANANA - БАНАН
+***** B.TXT
+APPLE - Яблоко
+        Lemon - ЛИМОН
+Pineapple -   Ананас
+        WATERMELON      - арбуз
+PEAR - Груша
+  ­­­­Grape - ВИНОГРАД
+BANANA - ­ банан
+*****
+
+‘а ў­Ґ­ЁҐ д ©«®ў a.txt Ё B.TXT
+***** a.txt
+Apple - Яблоко
+Lemon - лимон
+pineapple - АНАНАС
+WATERMELON - арбуз
+***** B.TXT
+APPLE - Яблоко
+        Lemon - ЛИМОН
+Pineapple -   Ананас
+        WATERMELON      - арбуз
+*****
+
+***** a.txt
+Pear - Груша
+Grape - виноград
+BANANA - БАНАН
+***** B.TXT
+PEAR - Груша
+  ­­­­Grape - ВИНОГРАД
+BANANA - ­ банан
+*****
+
+‘а ў­Ґ­ЁҐ д ©«®ў a.txt Ё B.TXT
+***** a.txt
+    1:  Apple - Яблоко
+...
+    7:  BANANA - БАНАН
+***** B.TXT
+    1:  APPLE - Яблоко
+...
+    7:  BANANA - ­ банан
+*****
+

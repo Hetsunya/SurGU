@@ -1,0 +1,59 @@
+1
+hobby, different areas, spending time in compute, serfing internet, in search  information, chating, interestin, free time,scientific fantastic, important part of life, take part in sports game, good equipped gym,improving english language, keep up with changes,spending time white friends.
+2
+фамилия, полное имя, быть зачисленным в университет, свободное время, сёрфить интернет, независемый человек, захватывающий опыт, любимое занятие, развивать свой ум, способ мышления, любить читать, учавствовать в спортивных событиях, разработки в технологиях, идти в ногу с изменениями в технологиях, быть за границей, делать чтонибудь для удовольствия, трата времяни.
+3. 
+1 fullname
+2 First year 
+3 joined
+4 favorite activitys
+5 serf internet
+6 waste time 
+7 Type of mind
+8 tournament
+9
+10 
+11 having fun
+4.
+1 on of
+2 in
+3 at in 
+4 in 
+5 on
+6 for in
+7 of
+8 in with
+9 on
+10 in 
+11 up
+12 in
+13 at in 
+5.
+1 no
+2 sometimes
+3 no
+4 no
+5 no
+6 yes
+7 no
+8 yes 
+9 no 
+10 sometimes
+11 yes 
+12 yes 
+13 yes 
+14 no
+15 no
+16 yes
+6. 
+i, l, e, m, f, n, p
+10.
+1 Ann Sokolova
+2 Surgut, Khanty-Mansi Autonomous Okrug – Yugra
+3 music, dance and sport
+4 five 
+5 businessman
+6 Physics and Computer Science 
+7 she likes to learn languages
+
+

@@ -1,0 +1,14 @@
+
+---------- A.TXT
+[2]Lemon - лимон
+[4]WATERMELON - арбуз
+[5]Pear - Груша
+[6]Grape - виноград
+[7]BANANA - БАНАН
+
+---------- B.TXT
+[2]	Lemon - ЛИМОН
+[4]	WATERMELON	- арбуз
+[5]PEAR - Груша
+[6]  ­­­­Grape - ВИНОГРАД
+[7]BANANA - ­ банан

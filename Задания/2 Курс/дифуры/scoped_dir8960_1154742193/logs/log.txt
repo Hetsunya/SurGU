@@ -1,0 +1,19 @@
+[2023-11-28 23:58:50.654] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:50.666] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:50.667] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:50.668] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:50.680] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:50.680] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:50.698] [INFO ] - "trackThinkDataEvent  eventName =  setup_open"
+[2023-11-28 23:58:50.698] [DEBUG] - track-time :  "2023-11-28 23:58:50.698"
+[2023-11-28 23:58:50.712] [INFO ] - "Support https : 0 , openssl buildversion: OpenSSL 1.1.1d  10 Sep 2019 , version : "
+[2023-11-28 23:58:50.712] [INFO ] - "postDataTrackRequest - url :http://datacollection-en.sl916.com/receiver/app"
+[2023-11-28 23:58:50.712] [INFO ] - "postDataTrackRequest - appId :1e78f13afed14ff2aafc68d79976306f"
+[2023-11-28 23:58:50.713] [WARN ] - QObject::connect: No such slot ThinkingDataReport::sslErrors(QNetworkReply*, QList<QSslError>) in e:\xingfanproj\qtproj\reverse1999-setupproject\nsis-ui-plugin\qt-ui\network\slabstractnetwork.cpp:159
+[2023-11-28 23:58:50.713] [WARN ] - QObject::connect:  (receiver name: 'SLAbstractNetwork')
+[2023-11-28 23:58:51.639] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:51.639] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:51.668] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:51.668] [DEBUG] - Unknown property text-shadow
+[2023-11-28 23:58:52.232] [INFO ] - "result data :"
+[2023-11-28 23:58:52.232] [INFO ] - "ThinkingDataReport result =  json is null"
