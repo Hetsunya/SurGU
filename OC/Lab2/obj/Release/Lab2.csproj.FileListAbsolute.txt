@@ -1,0 +1,11 @@
+B:\Задания\ОС\Lab2\bin\Release\Lab2.exe.config
+B:\Задания\ОС\Lab2\bin\Release\Lab2.exe
+B:\Задания\ОС\Lab2\bin\Release\Lab2.pdb
+B:\Задания\ОС\Lab2\obj\Release\Lab2.csproj.AssemblyReference.cache
+B:\Задания\ОС\Lab2\obj\Release\Lab2.csproj.SuggestedBindingRedirects.cache
+B:\Задания\ОС\Lab2\obj\Release\Lab2.Form1.resources
+B:\Задания\ОС\Lab2\obj\Release\Lab2.Properties.Resources.resources
+B:\Задания\ОС\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+B:\Задания\ОС\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+B:\Задания\ОС\Lab2\obj\Release\Lab2.exe
+B:\Задания\ОС\Lab2\obj\Release\Lab2.pdb

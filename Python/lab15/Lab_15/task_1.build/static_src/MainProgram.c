@@ -1,0 +1,1 @@
+/home/hetsu/Рабочий стол/Python/venv/lib/python3.10/site-packages/nuitka/build/static_src/MainProgram.c

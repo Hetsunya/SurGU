@@ -1,0 +1,17 @@
+enable
+configure terminal
+ip domain-name example.com
+crypto key generate rsa
+[тут ентер нжми да]
+username hetsu secret class
+line vty 0 15
+transport input ssh
+exec-timeout 5 0
+login local
+exit
+line console 0
+exec-timeout 5 0
+exit
+ip ssh version 2
+end
+wr

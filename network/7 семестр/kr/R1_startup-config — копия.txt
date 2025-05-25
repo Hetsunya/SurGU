@@ -1,0 +1,99 @@
+!
+version 15.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Router
+!
+!
+!
+!
+ip dhcp excluded-address 192.168.0.1 192.168.0.10
+!
+ip dhcp pool VLAN300
+ network 192.168.0.0 255.255.255.128
+ default-router 192.168.0.1
+ dns-server 8.8.8.8
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface GigabitEthernet0/0/0
+ ip address 192.168.0.161 255.255.255.240
+ duplex auto
+ speed auto
+ no shutdown
+!
+interface GigabitEthernet0/0/0.100
+ encapsulation dot1Q 100
+ ip address 192.168.0.162 255.255.255.240
+!
+interface GigabitEthernet0/0/0.200
+ encapsulation dot1Q 200
+ ip address 192.168.0.130 255.255.255.224
+!
+interface GigabitEthernet0/0/0.300
+ encapsulation dot1Q 300
+ ip address 192.168.0.1 255.255.255.128
+!
+interface GigabitEthernet0/0/1
+ ip address 192.168.0.129 255.255.255.224
+ duplex auto
+ speed auto
+ no shutdown
+!
+interface GigabitEthernet0/0/2
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+router rip
+!
+ip classless
+!
+ip flow-export version 9
+!
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
